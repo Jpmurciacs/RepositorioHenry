@@ -1,0 +1,24 @@
+clonar repositorio de github
+$ git clone https://github.com/Jpmurciacs/RepositorioHenry.git
+
+ir al destino
+$ cd RepositorioHenry
+
+crear carpeta
+$ mkdir CarpetaHenry
+
+ir al destino
+$ cd CarpetaHenry
+
+crear archivo
+$ touch 'primerArchivo.txt'
+
+actualizar git
+$ git add primerArchivo.txt
+
+recordar nombre della version
+$ git commit -m 'primer repositorio'
+
+
+actualizar github
+$ git push origin main
